@@ -9,6 +9,6 @@ namespace telegramBotproga
     internal class Constants
     {
         public static string adress = "https://localhost:7018";
-        public static string apikey = "BQCH0JNoZjR5oDYYRGtWs7vPve6HoptTqaKG11aikHnxtXURj5AS3MAlyGWJlaHgv3oITPXz7lpxgBZH-OOy_Pk2tojaQKg-CY3xvY1MiYddfyMIG7PJclCMTXpzIFaGfucrBjHV3iYl40h-GHqYd5jt1PrEH3BK5Fil3CGtx0J5Twgv4-Aj3zegCj3zj5y2uks";
+        public static string apikey = "BQDS2pdykRU8NUqjJ5owxqeZvuawWWiQGzjToq1i7VU5XGhTlnRiegv0klPaXsJg1EZG8PurhzSaRIWKIQD4PHtXkSMvYldyzRhQPv8HzXU7h8vxK-GUp13dAuoSI3QKXyOtzsu79cyTyJ0mZcPRFTij7stv-X12iURSWG1BUHBlLk2JOi3jbh1Nzu8ni_PDF14";
     }
 }
